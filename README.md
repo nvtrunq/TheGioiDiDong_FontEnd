@@ -1,3 +1,2 @@
 # TheGioiDiDong_FontEnd
-Tập code FontEnd Thế Giới Di Động
-
+Cắt giao diện Thế giới di động
